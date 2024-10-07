@@ -32,7 +32,7 @@ To get started with Fitness-Web, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/username/fitness-web.git
+git clone https://github.com/Social-ali/Fitness-web.git
 Navigate to the project directory:
 
 bash
